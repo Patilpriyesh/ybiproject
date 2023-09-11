@@ -1,5 +1,4 @@
-# ybiproject
-Financial Market News Sentiment Analysis
+# ybiproject Financial Market News Sentiment Analysis
 
 Objective
 
